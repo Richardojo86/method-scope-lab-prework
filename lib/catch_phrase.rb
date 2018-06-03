@@ -1,5 +1,5 @@
  phrase = "It's-a me, Mario!"
 
-def catch_phrase(argument)
+def catch_phrase
   puts phrase
 end
